@@ -30,5 +30,5 @@ After downloading or cloning the repository, navigate to the project directory a
 
    ### Running the Application
    ## To run the React application locally:
-   ```bash
+   
    npm run dev
