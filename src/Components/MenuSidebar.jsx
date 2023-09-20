@@ -47,8 +47,7 @@ function MenuSidebar({ isOpen, toggleMenuSidebar }) {
 
 MenuSidebar.propTypes = {
     isOpen: PropTypes.bool.isRequired,
-    toggleMenuSidebar: PropTypes.func.isRequired,
-    headerIsOpen: PropTypes.bool.isRequired, // Add this line
+    toggleMenuSidebar: PropTypes.func.isRequired
 };
 
 
