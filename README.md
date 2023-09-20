@@ -1,7 +1,7 @@
 # Simple Responsive Blog Page
 
 This is a React application.
-
+Live site link: https://650b1a31ed4b530c963efb6f--preeminent-speculoos-76d811.netlify.app/
 
 ## Getting Started
 
